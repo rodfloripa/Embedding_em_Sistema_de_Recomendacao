@@ -6,9 +6,10 @@ Este sistema aborda diretamente um dos maiores desafios em algoritmos de recomen
 
 Para rodar:
 
-docker build -t meu-jupyter-superlinked .
+sudo docker build -t app-superlinked .
 
 docker run --rm --name rodando-script app-superlinked
+
 
 ---
 
