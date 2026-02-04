@@ -1,5 +1,3 @@
-# Sistema de Recomendação com Superlinked
-
 # Superlinked: Resolvendo o Cold Start de Produtos
 
 <div align="justify">
@@ -81,4 +79,4 @@ Diferente dos sistemas legados baseados em palavras-chave exatas (onde oferecer 
 
 ---
 
-> **Próximo Passo Sugerido:** > Implementar um gatilho automático de notificação. Deseja adaptar o código para que o sistema dispare um alerta sempre que a afinidade (score) entre um novo produto e um usuário ultrapassar **0.5**?
+
