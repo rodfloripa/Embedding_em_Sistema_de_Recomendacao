@@ -37,8 +37,18 @@ Diferente das abordagens legadas, utilizamos a **Busca Semântica baseada em Vet
 | **Itens de Nicho** | **Resolvido** | Itens com poucas vendas são recomendados pela afinidade de conteúdo. |
 | **Usuário Novo** | **Pendente** | Requer ao menos uma interação inicial ou metadados de perfil. |
 
-![Texto Alternativo](URL_da_imagem)
+---
 
+## Resultados
+
+<p align="center">
+  <img src="https://github.com/rodfloripa/Embedding_em_Sistema_de_Recomendacao/blob/main/resultado.png" alt="Alt text" />
+</p>
+<p align="center">Fig1. Resultados</p>
+
+
+
+</div>
 </div>
 
 ---
