@@ -4,6 +4,11 @@
 
 Este sistema aborda diretamente um dos maiores desafios em algoritmos de recomendação: o **Cold Start** (Início a Frio). O fenômeno ocorre quando o sistema não possui dados históricos suficientes para tomar decisões precisas. No nosso modelo, focamos na solução do tipo mais comum em inventários dinâmicos.
 
+Para rodar:
+
+docker build -t meu-jupyter-superlinked .
+docker run -p 8888:8888 --name jupyter-ai meu-jupyter-superlinked
+
 ---
 
 ## ❄️ O Cold Start de Produto (Resolvido ✅)
