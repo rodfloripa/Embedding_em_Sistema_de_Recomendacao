@@ -7,6 +7,7 @@ Este sistema aborda diretamente um dos maiores desafios em algoritmos de recomen
 Para rodar:
 
 docker build -t meu-jupyter-superlinked .
+
 docker run -p 8888:8888 --name jupyter-ai meu-jupyter-superlinked
 
 ---
